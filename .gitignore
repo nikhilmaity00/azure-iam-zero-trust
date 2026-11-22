@@ -1,0 +1,15 @@
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files (NEVER commit these)
+*.tfstate
+*.tfstate.*
+
+# Sensitive variable files
+*.tfvars
+*.tfvars.json
+
+# Crash log files
+crash.log
+override.tf
+override.tf.json
