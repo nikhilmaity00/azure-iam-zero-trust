@@ -13,3 +13,6 @@
 crash.log
 override.tf
 override.tf.json
+
+# Not to commit
+*.csv
